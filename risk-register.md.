@@ -1,1 +1,46 @@
+# Risk Register
+
+This is a simple risk register for implementing a digital referral and appointment management tool into an NHS outpatient service.
+
+## 1. Staff resistance
+
+**Risk:** Staff continue using old spreadsheets, emails or manual workarounds.
+**Impact:** The new tool is technically live but not properly adopted.
+**Mitigation:** Involve users early, train around real tasks, identify super-users and track active usage after go-live.
+
+## 2. Poor data quality
+
+**Risk:** Referral, appointment or clinic data is incomplete, duplicated or unreliable.
+**Impact:** Users lose trust in the tool and managers cannot rely on reports.
+**Mitigation:** Review data sources during discovery and agree minimum data requirements before pilot.
+
+## 3. Workflow mismatch
+
+**Risk:** The software process does not match how the service actually works.
+**Impact:** Staff may see the tool as extra admin rather than support.
+**Mitigation:** Map the current workflow before rollout and test with a small pilot group.
+
+## 4. Unclear ownership
+
+**Risk:** No clear owner for decisions, issue resolution or BAU handover.
+**Impact:** Problems drift and the rollout loses momentum.
+**Mitigation:** Agree named clinical, operational, admin and technical owners before go-live.
+
+## 5. Generic training
+
+**Risk:** Training focuses on features rather than daily workflow.
+**Impact:** Staff may not understand how to use the tool in real situations.
+**Mitigation:** Train each user group around their actual tasks: admin validation, triage, booking, documentation and reporting.
+
+## 6. Benefits not measured
+
+**Risk:** The team cannot show whether the implementation improved the pathway.
+**Impact:** Leadership support may drop and wider rollout becomes harder.
+**Mitigation:** Agree baseline metrics before go-live and review them regularly after rollout.
+
+## 7. Change overload
+
+**Risk:** Staff are already under pressure and see the rollout as another burden.
+**Impact:** Engagement drops, feedback is limited and adoption is weak.
+**Mitigation:** Keep the pilot small, make support visible, and show early practical wins.
 
