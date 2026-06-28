@@ -9,6 +9,11 @@ It is not based on internal company information and does not use real patient da
 
 ## Scenario
 
+## Project files
+
+* [Workflow map](workflow-map.md) — maps the outpatient referral-to-appointment pathway, user groups and likely pain points.
+* [Implementation plan](implementation-plan.md) — outlines a simple 30/60/90 day rollout plan.
+* [Risk register](risk-register.md) — identifies adoption, workflow, data and ownership risks with mitigations.
 An outpatient service is introducing a digital tool to help manage referrals, triage, appointment booking, patient communication, clinic outcomes and reporting.
 
 The challenge is not just switching on software. The challenge is making sure admin staff, clinicians and managers actually use it, trust it, and feel that it reduces work rather than adding another system.
