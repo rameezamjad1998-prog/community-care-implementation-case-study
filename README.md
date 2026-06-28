@@ -2,7 +2,6 @@
 
 A small self-directed project by **Rameez Amjad**.
 
-I made this because I am trying to move from a clinical/medical background into healthtech implementation and healthcare operations roles. I do not have formal software implementation experience, so this project is a way of showing how I think about workflow, rollout, adoption risks and operational metrics.
 
 This case looks at implementing a digital referral and appointment management tool into an NHS outpatient service.
 
